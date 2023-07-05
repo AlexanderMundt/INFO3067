@@ -1,7 +1,7 @@
 [
     {
         "PRODUCTNAME": "SE2222H Dell 22 Monitor",
-        "GRAPHICNAME": "../../public/img/SE2222H.png",
+        "GRAPHICNAME": "SE2222H.png",
         "COST": "99.99",
         "MSRP": "129.99",
         "QTYONHAND": "3",
@@ -11,7 +11,7 @@
     },
     {
         "PRODUCTNAME": "E2222HS Dell 22 Monitor",
-        "GRAPHICNAME": "../../public/img/E2222HS.png",
+        "GRAPHICNAME": "E2222HS.png",
         "COST": "169.99",
         "MSRP": "229.99",
         "QTYONHAND": "1",
@@ -21,7 +21,7 @@
     },
     {
         "PRODUCTNAME": "P2222H Dell 22 Inch FHD Computer Monitor",
-        "GRAPHICNAME": "../../public/img/P2222H.png",
+        "GRAPHICNAME": "P2222H.png",
         "COST": "284.99",
         "MSRP": "379.99",
         "QTYONHAND": "2",
@@ -31,7 +31,7 @@
     },
     {
         "PRODUCTNAME": "E2222H Dell 22 Monitor",
-        "GRAPHICNAME": "../../public/img/E2222H.png",
+        "GRAPHICNAME": "E2222H.png",
         "COST": "164.99",
         "MSRP": "219.99",
         "QTYONHAND": "4",
@@ -41,7 +41,7 @@
     },
     {
         "PRODUCTNAME": "P1424H Dell 14 Inch Portable Travel Monitor",
-        "GRAPHICNAME": "../../public/img/P1424H.png",
+        "GRAPHICNAME": "P1424H.png",
         "COST": "339.99",
         "MSRP": "459.99",
         "QTYONHAND": "1",
