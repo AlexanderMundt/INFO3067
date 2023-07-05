@@ -51,8 +51,8 @@
     },
 
     {
-        "PRODUCTNAME": "AW3423DW",
-        "GRAPHICNAME": "ALIENWARE 34 CURVED QD-OLED GAMING MONITOR",
+        "PRODUCTNAME": "AW3423DW ALIENWARE 34 CURVED QD-OLED GAMING MONITOR",
+        "GRAPHICNAME": "AW3423DW.png",
         "COST": "1499.99",
         "MSRP": "1649.99",
         "QTYONHAND": "2",
@@ -61,8 +61,8 @@
         "BRAND": "ALIENWARE"
     },
     {
-        "PRODUCTNAME": "AW3821DW",
-        "GRAPHICNAME": "ALIENWARE 38 CURVED GAMING MONITOR",
+        "PRODUCTNAME": "AW3821DW ALIENWARE 38 CURVED GAMING MONITOR",
+        "GRAPHICNAME": "AW3821DW.png",
         "COST": "1399.99",
         "MSRP": "1729.99",
         "QTYONHAND": "1",
@@ -71,8 +71,8 @@
         "BRAND": "ALIENWARE"
     },
     {
-        "PRODUCTNAME": "AW2723DF",
-        "GRAPHICNAME": "ALIENWARE 27 GAMING MONITOR",
+        "PRODUCTNAME": "AW2723DF ALIENWARE 27 GAMING MONITOR",
+        "GRAPHICNAME": "AW2723DF.png",
         "COST": "749.99",
         "MSRP": "829.99",
         "QTYONHAND": "2",
@@ -81,8 +81,8 @@
         "BRAND": "ALIENWARE"
     },
     {
-        "PRODUCTNAME": "AW2523HF",
-        "GRAPHICNAME": "ALIENWARE 25 GAMING MONITOR",
+        "PRODUCTNAME": "AW2523HF ALIENWARE 25 GAMING MONITOR",
+        "GRAPHICNAME": "AW2523HF.png",
         "COST": "499.99",
         "MSRP": "569.99",
         "QTYONHAND": "5",
@@ -91,8 +91,8 @@
         "BRAND": "ALIENWARE"
     },
     {
-        "PRODUCTNAME": "AW3423DWF",
-        "GRAPHICNAME": "ALIENWARE 34 CURVED QD-OLED GAMING MONITOR",
+        "PRODUCTNAME": "AW3423DWF ALIENWARE 34 CURVED QD-OLED GAMING MONITOR",
+        "GRAPHICNAME": "AW3423DWF.png",
         "COST": "1299.99",
         "MSRP": "1399.99",
         "QTYONHAND": "2",
@@ -102,8 +102,8 @@
     },
 
     {
-        "PRODUCTNAME": "G25-10",
-        "GRAPHICNAME": "Lenovo 24.5 inch NVIDIA G-SYNC Gaming Monitor",
+        "PRODUCTNAME": "G25-10 Lenovo 24.5 inch NVIDIA G-SYNC Gaming Monitor",
+        "GRAPHICNAME": "G25-10.png",
         "COST": "299.99",
         "MSRP": "339.99",
         "QTYONHAND": "0",
@@ -112,8 +112,8 @@
         "BRAND": "LENOVO"
     },
     {
-        "PRODUCTNAME": "G24e-20",
-        "GRAPHICNAME": "Lenovo 23.8 inch Gaming Monitor",
+        "PRODUCTNAME": "G24e-20 Lenovo 23.8 inch Gaming Monitor",
+        "GRAPHICNAME": "G24e-20.png",
         "COST": "199.99",
         "MSRP": "269.99",
         "QTYONHAND": "1",
@@ -122,8 +122,8 @@
         "BRAND": "LENOVO"
     },
     {
-        "PRODUCTNAME": "Y27q-20",
-        "GRAPHICNAME": "Lenovo Legion 27 inch NVIDIA G-SYNC Gaming Monitor",
+        "PRODUCTNAME": "Y27q-20 Lenovo Legion 27 inch NVIDIA G-SYNC Gaming Monitor",
+        "GRAPHICNAME": "Y27q-20.png",
         "COST": "499.99",
         "MSRP": "649.99",
         "QTYONHAND": "6",
@@ -132,8 +132,8 @@
         "BRAND": "LENOVO"
     },
     {
-        "PRODUCTNAME": "G32qc-10",
-        "GRAPHICNAME": "Lenovo 31.5 inch Curved Gaming Monitor",
+        "PRODUCTNAME": "G32qc-10 Lenovo 31.5 inch Curved Gaming Monitor",
+        "GRAPHICNAME": "G32qc-10.png",
         "COST": "399.99",
         "MSRP": "479.99",
         "QTYONHAND": "2",
@@ -142,8 +142,8 @@
         "BRAND": "LENOVO"
     },
     {
-        "PRODUCTNAME": "G27-30",
-        "GRAPHICNAME": "Lenovo 27 inch FHD Gaming Monitor",
+        "PRODUCTNAME": "G27-30 Lenovo 27 inch FHD Gaming Monitor",
+        "GRAPHICNAME": "G27-30.png",
         "COST": "305.99",
         "MSRP": "339.99",
         "QTYONHAND": "3",
